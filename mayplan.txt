@@ -18,3 +18,8 @@ Target di May 2026
 
 
 + Week 2 (last 17 May 26)
+- Evaluation
+- Bootstrap Mastery
+- MySQL Mastery
+- PHP integration to MySQL (CRUD)
+- Laravel basic
