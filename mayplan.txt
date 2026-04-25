@@ -17,9 +17,10 @@ Target di May 2026
 - React basic
 
 
-+ Week 2 (last 17 May 26)
-- Evaluation
++ Week 3 (last 17 May 26)
 - Bootstrap Mastery
-- MySQL Mastery
-- PHP integration to MySQL (CRUD)
+- MySQL Mastery and Integration with PHP
+- React Intermadiate
 - Laravel basic
+- Evaluation
+
