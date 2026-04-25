@@ -7,3 +7,11 @@ Target di May 2026
 - HTML Mastery
 - CSS Mastery
 - Javascript Mastery
+
+
++ Week 2 (Last 10 May 26)
+- Bootstrap
+- Database Theory
+- MySQL
+- PHP Native
+- React basic
